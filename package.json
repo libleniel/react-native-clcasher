@@ -1,6 +1,6 @@
 {
   "name": "react-native-cacher",
-  "version": "1.0.0",
+  "version": "1.0.0-1",
   "description": "Extended AsyncStorage with expiration check",
   "scripts": {
     "test": "./node_modules/.bin/jest"
@@ -29,7 +29,7 @@
   "author": "mitevdev",
   "license": "MIT",
   "dependencies": {
-    "@react-native-community/async-storage": "^1.6.1"
+    "@react-native-async-storage/async-storage": "1.13.4"
   },
   "devDependencies": {
     "@babel/core": "^7.5.5",
